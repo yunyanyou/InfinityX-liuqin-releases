@@ -57,4 +57,4 @@ See [CHANGELOG.md](CHANGELOG.md). Versions before 2026-10-03 were released in th
 - Flashing wipes all data, so back up first!
 
 Maintainer: Coolapk @測你貓貓, GitHub @yunyanyou 
-For bugs or suggestions, join the QQ group at https://qm.qq.com/q/PUF57RhaOk, or file an [Issue](https://github.com/yunyanyou/liuqin-releases/issues).
+For bugs or suggestions, join the QQ group at https://qm.qq.com/q/PUF57RhaOk, or file an [Issue](https://github.com/yunyanyou/InfinityX-liuqin-releases/issues).

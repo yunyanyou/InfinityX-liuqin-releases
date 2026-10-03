@@ -57,4 +57,4 @@ sha256sum -c xxx.zip.sha256
 - 書き込みによりすべてのデータが消去されます。事前にバックアップを！
 
 メンテナー：Coolapk @測你貓貓、GitHub @yunyanyou 
-バグや提案は QQ グループ（https://qm.qq.com/q/PUF57RhaOk）または [Issues](https://github.com/yunyanyou/liuqin-releases/issues) までお願いします。
+バグや提案は QQ グループ（https://qm.qq.com/q/PUF57RhaOk）または [Issues](https://github.com/yunyanyou/InfinityX-liuqin-releases/issues) までお願いします。

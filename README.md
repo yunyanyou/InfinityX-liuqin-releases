@@ -17,7 +17,7 @@
 
 ## 下载
 
-[SourceForge](https://sourceforge.net/projects/liuqin/files/Project_Infinity-X/) 页面，文件名带日期，附有同名 `.sha256`，刷入前可先校验：
+[SourceForge](https://sourceforge.net/projects/liuqin/files/Project_Infinity-X/) 页面，文件名带日期，附带同名 `.sha256`，刷入前可先校验：
 
 ```bash
 sha256sum -c xxx.zip.sha256
@@ -57,4 +57,4 @@ sha256sum -c xxx.zip.sha256
 - 刷机会清空所有数据，请先备份！
 
 维护者：酷安@測你貓貓 github@yunyanyou 
-有 bug 或者任何 建议 可进QQ群https://qm.qq.com/q/PUF57RhaOk 反馈，或提交 [Issues](https://github.com/yunyanyou/liuqin-releases/issues)。
+有 bug 或者任何 建议 可进QQ群https://qm.qq.com/q/PUF57RhaOk 反馈，或提交 [Issues](https://github.com/yunyanyou/InfinityX-liuqin-releases/issues)。
