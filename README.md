@@ -2,7 +2,7 @@
 
 # Project Infinity-X for Xiaomi Pad 6 Pro (liuqin)
 
-为小米平板 6 Pro 构建的类原生，来源 Project Infinity-X（LineageOS / AOSP），非官方构建。
+为小米平板 6 Pro 构建的类原生，来源 [Project Infinity-X](https://github.com/ProjectInfinity-X)（LineageOS / AOSP），非官方构建。
 
 ## 功能
 
@@ -52,7 +52,7 @@ sha256sum -c xxx.zip.sha256
 ## 免责声明
 - 请备份所有数据，因刷机而产生的任何问题与本人无关。
 - 解锁 bootloader 会失去保修，因误操作产生的任何结果与本人无关。
-- Project Infinity-X 来源于 LineageOS / AOSP，相关上游与组件版权归各自所有者
+- [Project Infinity-X](https://github.com/ProjectInfinity-X) 来源于 LineageOS / AOSP，相关上游与组件版权归各自所有者
 - 内核为小米原厂预编译，未修改，源码见 [NOTICE.md](NOTICE.md)
 - 刷机会清空所有数据，请先备份！
 

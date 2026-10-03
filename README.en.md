@@ -2,7 +2,7 @@
 
 # Project Infinity-X for Xiaomi Pad 6 Pro (liuqin)
 
-A stock-like custom ROM for the Xiaomi Pad 6 Pro, sourced from Project Infinity-X (LineageOS / AOSP), unofficial build.
+A custom ROM for the Xiaomi Pad 6 Pro, based on [Project Infinity-X](https://github.com/ProjectInfinity-X) — a LineageOS / AOSP derivative. **Unofficial build.**
 
 ## Features
 
@@ -52,7 +52,7 @@ See [CHANGELOG.md](CHANGELOG.md). Versions before 2026-10-03 were released in th
 
 - Back up all your data; I am not responsible for any problems caused by flashing.
 - Unlocking the bootloader voids your warranty; I am not responsible for any outcome caused by misuse.
-- Project Infinity-X is sourced from LineageOS / AOSP; the copyright of the relevant upstream projects and components belongs to their respective owners.
+- [Project Infinity-X](https://github.com/ProjectInfinity-X) is sourced from LineageOS / AOSP; the copyright of the relevant upstream projects and components belongs to their respective owners.
 - The kernel is a stock Xiaomi prebuilt image (unmodified); see [NOTICE.md](NOTICE.md) for its source.
 - Flashing wipes all data, so back up first!
 
