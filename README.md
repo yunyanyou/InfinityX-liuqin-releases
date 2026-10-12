@@ -12,7 +12,7 @@
 - 杜比音效 / 杜比视界 / ac3 / ac4 解码
 - 屏幕旋转时左右声道跟随
 - SELinux 强制执行
-- 可触摸的recovery
+- 可触摸的 recovery
 
 
 ## 下载
@@ -52,9 +52,9 @@ sha256sum -c xxx.zip.sha256
 ## 免责声明
 - 请备份所有数据，因刷机而产生的任何问题与本人无关。
 - 解锁 bootloader 会失去保修，因误操作产生的任何结果与本人无关。
-- [Project Infinity-X](https://github.com/ProjectInfinity-X) 来源于 LineageOS / AOSP，相关上游与组件版权归各自所有者
-- 内核为小米原厂预编译，未修改，源码见 [NOTICE.md](NOTICE.md)
+- [Project Infinity-X](https://github.com/ProjectInfinity-X) 来源于 LineageOS / AOSP，相关上游与组件版权归各自所有者。
+- 内核为小米原厂预编译，未修改，源码见 [NOTICE.md](NOTICE.md)。
 - 刷机会清空所有数据，请先备份！
 
-维护者：酷安@測你貓貓 github@yunyanyou 
-有 bug 或者任何 建议 可进QQ群https://qm.qq.com/q/PUF57RhaOk 反馈，或提交 [Issues](https://github.com/yunyanyou/InfinityX-liuqin-releases/issues)。
+维护者：酷安 @測你貓貓、GitHub @yunyanyou
+有 bug 或建议可进 QQ 群 https://qm.qq.com/q/PUF57RhaOk 反馈，或提交 [Issues](https://github.com/yunyanyou/InfinityX-liuqin-releases/issues)。
